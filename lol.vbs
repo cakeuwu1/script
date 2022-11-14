@@ -1,6 +1,7 @@
 set x = wscript.CreateObject("wscript.shell")
 x.run "notepad"
-x.delay 100
+wscript.sleep 300
 x.AppActivate "Notepad"
-x.delay 200
+wscript.sleep 300
 x.sendkeys "Hey there"
+wscript.sleep 300
