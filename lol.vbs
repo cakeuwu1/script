@@ -4,8 +4,8 @@ wscript.sleep 300
 x.AppActivate "Notepad"
 wscript.sleep 300
 x.sendkeys "Hey there"
-wscript.sleep 300
+wscript.sleep 500
 x.sendkeys "{ENTER}"
 wscript.sleep 300
 x.sendkeys "You have been Hacked"
-x.sendkeys {F1}+	"%"
+x.sendkeys {F4}+	"%"
