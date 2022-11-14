@@ -8,4 +8,4 @@ wscript.sleep 500
 x.sendkeys "{ENTER}"
 wscript.sleep 300
 x.sendkeys "You have been Hacked"
-x.sendkeys {F4}+"%"
+x.sendkeys "{F4}"+"%"
